@@ -4,9 +4,9 @@ using namespace std;
 
 class Solution {
   public:
-    long long seriesSum(long long int n) {
+    long long seriesSum(int n) {
         //using sum of n natural numbers formula
-        return (n*(n+1)/2);
+        return ((long)n*(long)(n+1)/2);
     }
 };
 
