@@ -1,3 +1,14 @@
+
+/*
+Question:
+Given a single integer N, your task is to find the sum of the square of the first N even natural Numbers.
+ 
+Example 1:
+Input: 2
+Output: 20
+Explanation: 2^2 + 4^2 = 20
+*/
+
 //{ Driver Code Starts
 #include<bits/stdc++.h>
 using namespace std;
