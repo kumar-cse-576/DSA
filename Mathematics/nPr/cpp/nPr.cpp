@@ -1,3 +1,14 @@
+
+/*
+Question:
+Write a program to calculate nPr. nPr represents n permutation r and value of nPr is (n!) / (n-r)!.
+
+Example 1:
+Input: n = 2, r = 1
+Output: 2
+Explaination: 2!/(2-1)! = 2!/1! = (2*1)/1 = 2.
+*/
+
 //{ Driver Code Starts
 // Initial Template for C++
 
