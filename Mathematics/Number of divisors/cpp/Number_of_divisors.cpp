@@ -1,3 +1,16 @@
+
+/*
+Question:
+Given an integer N, find the number of divisors of N that are divisible by 3.
+
+Example 1:
+Input : 6
+Output: 2
+Explanation: 1, 2, 3, 6 are divisors 
+of 6 out of which 3 and 6 are divisible 
+by 3.
+*/
+
 //{ Driver Code Starts
 //Initial Template for C++
 
