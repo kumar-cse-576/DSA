@@ -1,3 +1,17 @@
+
+/*
+Question:
+Given a number N, find the Nth term in the series 1, 3, 6, 10, 15, 21…
+
+Example 1:
+Input :
+N = 4 
+Output:
+10
+Explanation:
+The 4th term of the Series is 10.
+*/
+
 //{ Driver Code Starts
 #include <bits/stdc++.h>
 using namespace std;
