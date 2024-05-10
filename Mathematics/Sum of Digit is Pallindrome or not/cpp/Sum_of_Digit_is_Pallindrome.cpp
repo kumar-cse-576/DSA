@@ -1,3 +1,17 @@
+
+/*
+Question:
+Given a number n.Find if the digit sum(or sum of digits) of n is a Palindrome number or not.
+Note: A Palindrome number is a number that stays the same when reversed. Example- 121 , 131 , 7 etc.
+
+Example 1:
+Input:
+n = 56
+Output: 1
+Explanation:
+The digit sum of 56 is 5+6=11.Since, 11 is a palindrome number.Thus, answer is 1.
+*/
+
 //{ Driver Code Starts
 // Initial Template for C++
 
