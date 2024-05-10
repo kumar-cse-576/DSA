@@ -1,3 +1,18 @@
+
+/*
+Question:
+Given a positive integer N, determine whether it is odd or even.
+
+Example 1:
+Input:
+N = 1
+Output:
+odd
+Explanation:
+The output is self-
+explanatory.
+*/
+
 //{ Driver Code Starts
 #include<bits/stdc++.h> 
 using namespace std; 
