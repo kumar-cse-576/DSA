@@ -1,3 +1,16 @@
+
+/*
+Question:
+You are given an integer N, reverse the digits of given number N, ensuring that the reversed number has no leading zeroes. Return the resulting reversed number.
+
+Example 1:
+Input: 200
+Output: 2
+Explanation: By reversing the digts of 
+number, number will change into 2.
+*/
+
+
 //{ Driver Code Starts
 
 #include<bits/stdc++.h>
