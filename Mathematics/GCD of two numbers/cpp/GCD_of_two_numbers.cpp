@@ -1,3 +1,17 @@
+
+/*
+Question:
+Given two positive integers a and b, find GCD of a and b.
+Note: Don't use the inbuilt gcd function
+
+Example 1:
+Input: 
+a = 3
+b = 6
+Output: 3
+Explanation: GCD of 3 and 6 is 3
+*/
+
 //{ Driver Code Starts
 #include<bits/stdc++.h>
 using namespace std;
