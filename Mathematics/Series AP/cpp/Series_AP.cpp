@@ -1,3 +1,20 @@
+
+
+/*
+Question:
+Given the first 2 terms a1 and a2 of an Arithmetic Series.Find the nth term of the series. 
+
+Example 1:
+Input:
+a1 = 2
+a2 = 3
+n = 4
+Output: 5
+Explanation:
+The series is: 2,3,4,5,6....
+Thus,4th term is 5.
+*/
+
 //{ Driver Code Starts
 // Initial Template for C++
 
