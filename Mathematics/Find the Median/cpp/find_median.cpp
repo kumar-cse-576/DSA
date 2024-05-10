@@ -1,3 +1,16 @@
+/*
+Question:
+Given an array arr[] of N integers, calculate the median.
+NOTE: Return the floor value of the median.
+
+Example 1:
+Input: N = 5
+arr[] = 90 100 78 89 67
+Output: 89
+Explanation: After sorting the array 
+middle element is the median 
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
