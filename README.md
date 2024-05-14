@@ -8,7 +8,8 @@ This repository contains solutions to Data Structures and Algorithms (DSA) probl
 *Difficulty Level: Easy*
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kumar-cse-576.DSA&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kumar-cse-576.DSA)
+
 
 
 #### Contact
