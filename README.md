@@ -8,7 +8,7 @@ This repository contains solutions to Data Structures and Algorithms (DSA) probl
 *Difficulty Level: Easy*
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=kumar-cse-576&base=0)
 
 
 
